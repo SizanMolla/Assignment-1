@@ -69,9 +69,7 @@
     margin-top: 1px;
     display: inline-block;
     background-position: center center;
-
-
-
+    background-attachment:fixed;
 }
 
 .menu h1 {
